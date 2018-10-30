@@ -6,7 +6,7 @@
   "BBLineSensor.Right|block": "høyre",
   "BBLightSensor.Left|block": "venstre",
   "BBLightSensor.Right|block": "høyre",
-  "bitbot.neo|block": "neo stripe",
+  "bitbot.neo|block": "neo stripeE",
   "bitbot.motor|block": "kjør motor %motor|hastighet %speed",
   "bitbot.buzz|block": "buzz lyd %flag",
   "bitbot.readLine|block": "les linje-sensor %sensor",
